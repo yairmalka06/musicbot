@@ -1,1 +1,1 @@
-web: run JMusicBot-0.1.0.jar
+worker: java JMusicBot-0.1.0.jar
